@@ -19,3 +19,5 @@ This project delves into the intriguing phenomenon of crab molting, analyzing a 
 
 ## Conclusion
 The study sheds light on the intricate interplay between molting, crab growth, and environmental factors, offering valuable insights for understanding crab development and its ecological implications. These findings can inform conservation strategies and management practices to support successful molting and preserve crab populations in natural and aquaculture environments.
+
+***For a detailed report, read the PDF***
